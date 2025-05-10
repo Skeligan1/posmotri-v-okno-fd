@@ -179,7 +179,7 @@ ol {
   display: flex;
   flex-direction: column;
 }
-/* --------Стилизация форм-------- *//* чекбоксы */
+/* ----Стилизация форм--- */    /* чекбоксы */
 .visually-hidden {
   position: absolute;
   inline-size: 1px;
