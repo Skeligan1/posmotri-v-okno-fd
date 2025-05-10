@@ -13,13 +13,12 @@ html {
   justify-content: center;
   align-items: center;
   inline-size: 1200px;
-  box-sizing: 100%;
   margin: auto;
   color: #fff;
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
-  margin-top: 135px;
+  block-size: 100%;
 }
 
 h1,
@@ -59,7 +58,6 @@ ol {
   grid-template-areas: "result content__details";
   gap: 30px;
   place-items: end;
-  
 }
 
 .result {
